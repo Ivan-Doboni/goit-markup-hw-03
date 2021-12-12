@@ -166,17 +166,18 @@ body { font-size: 14px;
   .pics {
     display: flex;
     padding-bottom: 94px;
-  /* OUR T */
+  }
 
-  .section.team
-  { 
+    /*Team*/
+
+    .section.team { 
     background-color: #f5f4fa;
-    padding-top: 94px;
-    padding-bottom: 94px;
-  
+    padding-top: 94px ;
+    padding-bottom: 94px ;
   }
 
    /* --------- CSS for Portfolio --------- */
+   
    .project-title.visually-hidden {
   
     position: absolute;
